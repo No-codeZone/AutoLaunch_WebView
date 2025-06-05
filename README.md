@@ -36,4 +36,4 @@ This project is a secure Kiosk-mode Android application that auto-launches a ful
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-org/autolaunch-kiosk.git
+   git clone https://github.com/No-codeZone/AutoLaunch_WebView.git
